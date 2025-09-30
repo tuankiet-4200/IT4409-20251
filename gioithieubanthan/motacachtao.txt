@@ -1,0 +1,4 @@
+Trong thẻ head dùng thẻ title để định nghĩa tiêu đề trang
+Trong thẻ body có thẻ header với thẻ h1 làm tiêu đề bài viết
+Trong thẻ main chia làm 4 section, section thứ nhất là thông tin sinh viên, section thứ 2 là sở thích, saction thứ 3 là các môn học và section thứ 4 là trang yêu thích
+Tiếp theo là thẻ footer là mssv và ngày tạo
